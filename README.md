@@ -6,5 +6,7 @@ Time Series Analysis
 
 Qingling Wu qingling.wu@ucl.ac.uk
 
+Practicals : http://nbviewer.ipython.org/github/qwu-hab/geogg121/blob/master/tsa_temp.ipynb
+
 
 
